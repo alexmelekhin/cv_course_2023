@@ -16,4 +16,4 @@ pip install hydra-core --upgrade
 
 ### Place Recognition
 
-Описание задания расположено в [ноутбуке](./place_recognition.ipynb)
+Описание задания (опционального) расположено в [ноутбуке](./place_recognition.ipynb)
